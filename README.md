@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neha-git715
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...c programming,python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...frontend web dev,c,python
+- 💞️ I’m looking to collaborate on ...frontend projects
 - 📫 How to reach me ...nehagade715@gmail.com
 
 <!---

@@ -9,7 +9,7 @@
 - 🔭 Currently working on **Full stack and machine learning ,data science projects**
 - 🌱 Learning **machine learning**, **data analytics**, and enhancing **backend skills**
 - 📫 Reach me at: **nehagade715@gmail.com**
-- 👩‍💻 Portfolio: [neha-git715.netlify.app](https://neha-git715.netlify.app) *(update if needed)*
+- 👩‍💻 Portfolio: [neha-git715.netlify.app](https://neha-git715.netlify.app) *(will update soon)*
 
 ---
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Neha Gade</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Neha-git715&label=Profile%20views&color=0e75b6&style=flat" alt="Neha-git715" />
 </p>
 
-- 🎓 B.Tech Computer Engineering @ KJSCE (Honors in Data Analytics)
+- 🎓 B.Tech Computer Engineering @ KJSCE,Mumbai (Honors in Data Analytics)
 - 🔭 Currently working on **Full stack and machine learning ,data science projects**
 - 🌱 Learning **machine learning**, **data analytics**, and enhancing **backend skills**
 - 📫 Reach me at: **nehagade715@gmail.com**

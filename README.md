@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Gade</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer/Sata Science Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Neha-git715&label=Profile%20views&color=0e75b6&style=flat" alt="Neha-git715" />
@@ -46,7 +46,7 @@
 
 - 🎧 [Decibels – Music Streaming App](https://github.com/Neha-git715/Decibels)
 - 💼 [BankGen360 – Accenture GenAI Hackathon](https://github.com/Neha-git715/Accenture-GenAI-hacakthon.git)
-- 🔍 [Fake News Detection + Summarizer](https://github.com/KartikAmbupe/Mini-Project-Sem-VI)
+- 🔍 [Fake News Detection + Summarizer](https://github.com/Neha-git715/FactFeedAI)
 - 👕 [E-commerce Website](https://github.com/Neha-git715/ecomm-site)
 - 🌐 [Social Media Interface](https://github.com/Neha-git715/social.media.interface)
 - ❓ [Trivia Quiz Game](https://github.com/Neha-git715/Trivia-QuizGame)
